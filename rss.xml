@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Kod Nate Novosti</title>
+        <link>https://andjellija.github.io/kodnate/index.html</link>
+        <description>Novosti sa naseg web sajta</description>
+        <item>
+            <title>Novi sezonski kolaci</title>
+            <linkhttps://andjellija.github.io/kodnate/index.html></link>
+            <description>Poslastičarnica "Kod Nata" sada nudi nove sezonske kolače sa zimskim ukusima, savršene za predstojeće praznike!</description>
+        </item>
+        <item>
+            <title>Vegnaski i gluten-free kolacici</title>
+            <link>https://andjellija.github.io/kodnate/index.html</link>
+            <description>Poslastičarnica "Kod Nata" je unapredila svoju ponudu s posebnim gluten-free i veganskim kolačima, savršenim za sve prehrambene preferencije.</description>
+        </item>
+    </channel>
+</rss>
